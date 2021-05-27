@@ -11,5 +11,8 @@ All of the images are from real life scenarious and have large variations in pos
 
 Our dataset will be released soon.
 
+# Pre-processing
+For face detection a combination of MTCNN and RetinaFace is used. The bounding boxes are extanded by a factor of 0.3 to include the whole head as described in [1].
+
 ## References
 [1] Cao, Q., Shen, L., Xie, W., Parkhi, O. M., & Zisserman, A. (2018, May). Vggface2: A dataset for recognising faces across pose and age. In 2018 13th IEEE international conference on automatic face & gesture recognition (FG 2018) (pp. 67-74). IEEE.
