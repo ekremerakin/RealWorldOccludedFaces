@@ -3,9 +3,9 @@
 Real World Occluded Faces (ROF) dataset contains face image samples with real life upper-face and lower-face occlusions (i.e. face masks and sunglasses). The dataset contains 3195 neutral images, 1686 sunglasses images and 678 masked images.
 
 These images are distributed among identities as such:
-	- All 180 identities have neutral images
-	- 70 of these identities have both types of occlusion image samples.
-	- 110 of these identities have only sunglasses image samples.
+- All 180 identities have neutral images
+- 70 of these identities have both types of occlusion image samples.
+- 110 of these identities have only sunglasses image samples.
 
 All of the images are from real life scenarious and have large variations in pose and illumination. Images are collected from Google Image Search using the process described in [1] with some modifications.
 
