@@ -1,4 +1,4 @@
-# RealWorldOccludedFaces
+# Real World Occluded Faces (ROF)
 
 ![Sample images from the ROF](resources/sample_data.png)
 
