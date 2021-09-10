@@ -12,7 +12,7 @@ These images are distributed among identities as such:
 
 All of the images are from real life scenarios and have large variations in pose and illumination. Images are collected from Google Image Search using the process described in [1] with some modifications.
 
-Our dataset will be released soon.
+Dataset folders are now available! In addition to those, we also included a download.py file to obtain the jpg formated images from pickle files provided.
 
 # Pre-processing
 For face detection combination of MTCNN and RetinaFace is used. The bounding boxes are extanded by a factor of 0.3 to include the whole head as described in [1].
