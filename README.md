@@ -12,7 +12,7 @@ These images are distributed among identities as such:
 
 All of the images are from real life scenarios and have large variations in pose and illumination. Images are collected from Google Image Search using the process described in [1] with some modifications.
 
-**`10.09.2021`**: Dataset is now available! We have included a [download.py](https://github.com/ekremerakin/RealWorldOccludedFaces/blob/main/download.py) file to obtain the jpg formated images from pickle files provided.
+**`10.09.2021`**: Dataset is now available! We have included a [download.py](https://github.com/ekremerakin/RealWorldOccludedFaces/blob/main/download.py) script to obtain the jpg formated images from pickle files provided.
 
 ```bash
 $ cd RealWorldOccludedFaces-main
